@@ -8,7 +8,7 @@ __I can use a Rojo/Argon workflow depending on project requirements. Coachable a
 
 ###  [Shoot the Brainrots](https://www.rolimons.com/game/130557965403026)
 
-* Proactively Reworked Data Persistence Architecture with ProfileStore to prevent Data Losses and Softlocks due to All-or-Nothing Saving behaviour while maintaining backwards compatibility and coordinating with the community to perform RCA
+* Proactively Reworked Data Persistence Architecture with ProfileStore to prevent Data Losses and Softlocks due to fragile saving behaviour while maintaining backwards compatibility and coordinating with the community to perform RCA
 * First Responder of mitigating critical data loss after a version with compatibility problems was rolled back
 * Performance optimizations that Reduced Server Memory Growth ~2.6x and Compute Efficiency improved by 71%
 

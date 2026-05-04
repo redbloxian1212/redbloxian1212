@@ -19,11 +19,8 @@ __I can use a Rojo/Argon workflow depending on project requirements. Coachable a
 
 ###  [Shoot a Brainrot](https://www.rolimons.com/game/78949013360566)
 
-* Implemented a config-driven offset system for character constructors, eliminating manual alignment errors and streamlining the workflow between the modeling and programming team.
-
-### [Poison Treats](https://www.rolimons.com/game/73257710123935)
-
-* Network and Stability optimizations
+* For HR: Implemented a config-driven offset system for character constructors, eliminating manual alignment errors and streamlining the workflow between the modeling and programming team.
+* For non HR: I tweaked the constructor function to apply rotation properties to the align orientation
 
 ## Reach out
 **Discord:** @hask3l

@@ -4,7 +4,7 @@ __2 years of experience in Luau | Worked on 220M+ Lifetime Visits Combined | Bui
 
 __I can use a Rojo/Argon workflow depending on project requirements. Coachable and can adapt to different setups or environments fairly quickly.__
 
-## Games I Worked On
+## My Impact
 
 ###  [Shoot the Brainrots](https://www.rolimons.com/game/130557965403026)
 
@@ -14,7 +14,7 @@ __I can use a Rojo/Argon workflow depending on project requirements. Coachable a
 
 ###  [+1 Speed Bridge Building](https://www.rolimons.com/game/135787657971346)
 
-* Having 100k+ bridges was very yikes since the game was trying to load them all at once, so I distributed the building across multiple frames, reduced client crashes by 73%
+* Owning 10k+ bridges was very yikes since the game was trying to load them all at once, so I distributed the building across multiple frames, reduced client crashes by 73%
 * Fixed character instability at high speeds by creating dedicated hitboxes for the bridges and disabled FallingDown state on the Humanoid
 
 ###  [Shoot a Brainrot](https://www.rolimons.com/game/78949013360566)

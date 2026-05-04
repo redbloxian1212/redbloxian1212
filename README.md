@@ -18,9 +18,7 @@ __I can use a Rojo/Argon workflow depending on project requirements. Coachable a
 * Fixed character instability at high speeds by creating dedicated hitboxes and tuning Humanoid State
 
 ###  [Shoot a Brainrot](https://www.rolimons.com/game/78949013360566)
-
-* For HR: Implemented a config-driven offset system for character constructors, eliminating manual alignment errors and streamlining the workflow between the modeling and programming team.
-* For non HR: I tweaked the constructor function to apply rotation properties to the align orientation
+* I tweaked the constructor function to apply rotation properties to the align orientation which sped up content updates and prevented ping pong between modelers and scripters
 
 ## Reach out
 **Discord:** @hask3l

@@ -6,6 +6,12 @@ __I can use a Rojo/Argon workflow depending on project requirements. Coachable a
 
 ## My Impact
 
+### [Brainrot Bounties](https://www.roblox.com/games/139701287827416/Brainrot-Bounties)
+* Sound Design
+* Ui Design
+* Programming
+* Built from scratch (except for the buildings)
+
 ###  [Shoot the Brainrots](https://www.rolimons.com/game/130557965403026)
 
 * Proactively Reworked Data Persistence Architecture with ProfileStore to prevent Data Losses and Softlocks due to fragile saving behaviour while maintaining backwards compatibility and coordinating with the community to perform RCA (wow thats alot of words)

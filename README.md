@@ -1,6 +1,6 @@
 ## Yo, I'm src!
 
-__3 years of experience in Luau | Worked on 220M+ Lifetime Visits Combined | Building for the present and the future__
+__3 years of experience in Luau | Worked on many games all totaling 220M+ Lifetime Visits | Building for the present and the future__
 
 __I can use a Rojo/Argon workflow depending on project requirements. Coachable and can adapt to different setups or environments fairly quickly.__
 

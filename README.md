@@ -1,16 +1,10 @@
 ## Yo, I'm src!
 
-__3 years of experience in Luau | Worked on many games all totaling 220M+ Lifetime Visits | Building for the present and the future__
+__3 years of experience in Luau | Building for the present and the future__
 
 __I can use a Rojo/Argon workflow depending on project requirements. Coachable and can adapt to different setups or environments fairly quickly.__
 
 ## My Impact
-
-### [Brainrot Bounties](https://www.roblox.com/games/139701287827416/Brainrot-Bounties)
-* Sound Design
-* Ui Design
-* Programming
-* Built from scratch (except for the buildings)
 
 ###  [Shoot the Brainrots](https://www.rolimons.com/game/130557965403026)
 
@@ -22,6 +16,12 @@ __I can use a Rojo/Argon workflow depending on project requirements. Coachable a
 
 * Owning 10k+ bridges was very yikes since the game was trying to load them all at once, so I distributed the building across multiple frames, reduced client crashes by 73%
 * Fixed character instability at high speeds by creating dedicated hitboxes for the bridges and disabled FallingDown state on the Humanoid
+
+### [Brainrot Bounties](https://www.roblox.com/games/139701287827416/Brainrot-Bounties)
+* Sound Design
+* Ui Design
+* Programming
+* Built from scratch (except for the buildings)
 
 ###  [Shoot a Brainrot](https://www.rolimons.com/game/78949013360566)
 * I tweaked the constructor function to apply rotation properties to the align orientation which sped up content updates and prevented ping pong between modelers and scripters

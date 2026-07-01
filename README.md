@@ -6,6 +6,11 @@ __I can use a Rojo/Argon workflow depending on project requirements. Coachable a
 
 ## My Impact
 
+### [Crazy Chefs 👨‍🍳](https://www.rolimons.com/game/18102078939)
+* Migrated the messy codebase into my own dependency-injected Framework (Forge v2)
+* Performance fixes that fixed servers getting 1-14 heartbeat
+* Gameplay enhancements and QOL
+
 ###  [Shoot the Brainrots](https://www.rolimons.com/game/130557965403026)
 
 * Proactively Reworked Data Persistence Architecture with ProfileStore to prevent Data Losses and Softlocks due to fragile saving behaviour while maintaining backwards compatibility and coordinating with the community to perform RCA (wow thats alot of words)

@@ -28,8 +28,10 @@ __💼Fullstack Developer | 🧠Producer__
 ![Janitor](https://img.shields.io/badge/Janitor-4682B4?style=for-the-badge)
 ![Replica](https://img.shields.io/badge/Replica-800080?style=for-the-badge)
 
-## My Impact
-Check out my full [portfolio](https://portfolio-website-seven-blond-62.vercel.app/) with case studies, breakdowns, and project details.
+---
+
+
+Check out my __[portfolio](https://portfolio-website-seven-blond-62.vercel.app/)__ with case studies, breakdowns, and project details.
 
 ## Reach out
 

@@ -35,4 +35,4 @@ Check out my __[portfolio](https://portfolio-website-seven-blond-62.vercel.app/)
 
 ## Reach out
 
-**Discord:** @sergei.bessonov
+**Discord:** @src.dev
